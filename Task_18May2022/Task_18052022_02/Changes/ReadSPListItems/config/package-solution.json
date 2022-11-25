@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "read-sp-list-items-client-side-solution",
+    "id": "a6448600-2b22-4408-9ae5-625820cbd0c3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "read-sp-list-items description"
+      },
+      "longDescription": {
+        "default": "read-sp-list-items description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "read-sp-list-items Feature",
+        "description": "The feature that activates elements of the read-sp-list-items solution.",
+        "id": "09a2d8c5-7260-4d3b-bd5b-2cb1aa83ebd4",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/read-sp-list-items.sppkg"
+  }
+}

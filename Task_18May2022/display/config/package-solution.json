@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fluent-ui-details-list-with-custom-item-column",
+    "id": "5c283be7-51ca-497f-a4ae-44e30f535d5b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/fluent-ui-details-list-with-custom-item-column.sppkg"
+  }
+}
